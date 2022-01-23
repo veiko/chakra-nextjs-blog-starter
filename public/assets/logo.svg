@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="537px" height="105px" viewBox="0 0 537 105" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group</title>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#7BCBD4" offset="0%"></stop>
+            <stop stop-color="#29C6B7" offset="100%"></stop>
+        </linearGradient>
+        <path d="M61.7994706,24.2675727 L42.5034643,47.9689687 C42.3013257,48.3310765 42.5692704,48.7731089 42.9907626,48.7731089 L58.6342902,48.7731089 C59.1382483,48.7731089 59.381481,49.3774373 59.0130224,49.7142628 L23.4526472,82.8236287 C22.570065,82.2198441 21.7165428,81.5766931 20.8946103,80.8967053 L43.748227,56.5195503 C44.0142281,56.160161 43.7521143,55.6566899 43.2986908,55.6566899 L26.7470112,55.6566899 C26.2513552,55.6566899 26.0040131,55.0692163 26.3557009,54.7272257 L58.2404931,22.3079561 C59.4679738,22.8934573 60.6559916,23.5483548 61.7994706,24.2675727 Z" id="path-2"></path>
+        <filter x="-17.1%" y="-8.3%" width="134.2%" height="123.1%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.113512385   0 0 0 0 0.619930986   0 0 0 0 0.576618869  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group" transform="translate(0.000000, 0.083958)">
+            <g id="logo" transform="translate(185.809417, 0.000000)" fill-rule="nonzero">
+                <rect id="Rectangle" fill="url(#linearGradient-1)" x="8.19058283" y="18.9160419" width="70" height="70" rx="35"></rect>
+                <path d="M24.5402363,24.2936896 L42.7633607,49.7687921 L45.2239627,52.5861303 L65.5684466,80.8287475 C64.634426,81.606237 63.6592937,82.3360223 62.6467902,83.0143629 L42.7633607,55.4034685 L40.4723545,52.5861303 L21.6634619,26.3172603 C22.5864081,25.5963363 23.5464467,24.920699 24.5402363,24.2936896 Z" id="Combined-Shape" fill="#BCE5E3"></path>
+                <path d="M26.3557009,54.7272257 L80.0187805,0.162966093 C80.473037,-0.278821654 81.2044011,0.258794154 80.8975836,0.809159851 L42.5034643,47.9689687 C42.3013257,48.3310765 42.5692704,48.7731089 42.9907626,48.7731089 L58.6342902,48.7731089 C59.1382483,48.7731089 59.381481,49.3774373 59.0130224,49.7142628 L0.941071508,103.781403 C0.44955265,104.230504 -0.282061314,103.597631 0.112553193,103.0648 L43.748227,56.5195503 C44.0142281,56.160161 43.7521143,55.6566899 43.2986908,55.6566899 L26.7470112,55.6566899 C26.2513552,55.6566899 26.0040131,55.0692163 26.3557009,54.7272257 Z" id="Path" fill="#BCE5E3"></path>
+                <g id="Combined-Shape">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+                    <use fill="#FFFFFF" xlink:href="#path-2"></use>
+                </g>
+            </g>
+            <text id="chakra-next.js-blog" font-family="Inter-Regular_SemiBold, Inter" font-size="60" font-weight="500" letter-spacing="-2.5">
+                <tspan x="0" y="71.9160419" fill="#2D3748">chakra       </tspan>
+                <tspan x="269.506669" y="71.9160419" font-family="Inter-Regular_Light, Inter" font-weight="300" fill="#319795">next.js</tspan>
+                <tspan x="434.620484" y="71.9160419" fill="#2D3748"> </tspan>
+                <tspan x="447.018091" y="71.9160419" font-family="Inter-Regular_Light, Inter" font-size="48" font-weight="300" letter-spacing="-2" fill="#2D3748">blog</tspan>
+            </text>
+        </g>
+    </g>
+</svg>

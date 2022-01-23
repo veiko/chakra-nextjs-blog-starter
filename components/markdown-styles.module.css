@@ -1,0 +1,26 @@
+.markdown {
+  font-size: var(--chakra-fontSizes-lg);
+  line-height: 1.625;
+}
+
+.markdown p,
+.markdown ul,
+.markdown ol,
+.markdown blockquote {
+  margin-bottom: var(--chakra-sizes-6);
+  margin-top: var(--chakra-sizes-6);
+}
+
+.markdown h2 {
+  font-size: var(--chakra-fontSizes-3xl);
+  line-height: 1.375;
+  margin-bottom: var(--chakra-sizes-4);
+  margin-top: var(--chakra-sizes-12);
+}
+
+.markdown h3 {
+  font-size: var(--chakra-fontSizes-2xl);
+  line-height: 1.375;
+  margin-bottom: var(--chakra-sizes-4);
+  margin-top: var(--chakra-sizes-8);
+}
